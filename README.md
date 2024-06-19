@@ -30,7 +30,7 @@ By leveraging the YOLOv8 model, the system identifies mushrooms through a connec
   - eible - Hypholoma lateritium, agaricus arvensis, Oyster mushroom, Sparassis crispa, Volvariella volvacea, Apioperdon pyriforme
 
 
-## Architecture map
+## Architecture map(Block Diagram)
 
 
 ## Key Features
