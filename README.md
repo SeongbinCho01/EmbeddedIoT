@@ -31,7 +31,8 @@ By leveraging the YOLOv8 model, the system identifies mushrooms through a connec
 
 
 ## Architecture map(Block Diagram)
-![diagram_iot](https://github.com/SeongbinCho01/EmbeddedIoT/assets/83772963/117d0938-9fce-4cdf-b9f4-562ca6a2bdb3)
+![diagram_iot](https://github.com/SeongbinCho01/EmbeddedIoT/assets/83772963/e08a8182-cc97-4eab-84b3-8ef600aba1e2)
+
 
 
 ## Key Features
